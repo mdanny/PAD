@@ -1,0 +1,14 @@
+{
+    "4.1": {
+        "firstName": "Dumitru",
+        "lastName": "Placinta",
+        "departament": "Computer Science",
+        "salary": "250"
+    },
+    "4.2": {
+        "firstName": "Ciprian",
+        "lastName": "Ivanov",
+        "departament": "Information Technology",
+        "salary": "500"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "3.1": {
+        "firstName": "Tudor",
+        "lastName": "Dumbrava",
+        "departament": "Computer Science",
+        "salaryy": "380"
+    },
+    "3.2": {
+        "firstName": "Cristian",
+        "lastName": "Ciorescu",
+        "departament": "Computer Science",
+        "salary": "550"
+    },
+    "3.3": {
+        "firstName": "Ilie",
+        "lastName": "Candit",
+        "departament": "Information Technology",
+        "salary": "500"
+    },
+    "3.4": {
+        "firstName": "Stefan",
+        "lastName": "Josan",
+        "departament": "Computer Science",
+        "salary": "250"
+    },
+    "3.5": {
+        "firstName": "Andrei",
+        "lastName": "Topa",
+        "departament": "Information Technology",
+        "salary": "500"
+    }
+}

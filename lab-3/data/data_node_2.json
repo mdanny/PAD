@@ -1,0 +1,20 @@
+{
+    "2.1": {
+        "firstName": "Anton",
+        "lastName": "Curlat",
+        "departament": "Computer Science",
+        "salary": "440"
+    },
+    "2.2": {
+        "firstName": "Vlad",
+        "lastName": "Samburski",
+        "departament": "Information Technology",
+        "salary": "380"
+    },
+    "2.3": {
+        "firstName": "Ion",
+        "lastName": "Postolache",
+        "departament": "Architecture",
+        "salary": "120"
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "5.1": {
+        "firstName": "Cristian",
+        "lastName": "Cartofeanu",
+        "departament": "Computer Science",
+        "salary": "400"
+    },
+    "5.2": {
+        "firstName": "Daniel",
+        "lastName": "Macrinici",
+        "departament": "Information Technology",
+        "salary": "300"
+    },
+    "5.3": {
+        "firstName": "Cristian",
+        "lastName": "Rosca",
+        "departament": "Civil Engineering",
+        "salary": "200"
+    },
+    "5.4": {
+        "firstName": "Iurie",
+        "lastName": "Botnaru",
+        "departament": "Architecture",
+        "salary": "500"
+    }
+}
