@@ -1,0 +1,26 @@
+[
+    {
+        "firstName": "Cristian",
+        "lastName": "Cartofeanu",
+        "departament": "Computer Science",
+        "salary": "400"
+    },
+    {
+        "firstName": "Daniel",
+        "lastName": "Macrinici",
+        "departament": "Information Technology",
+        "salary": "300"
+    },
+    {
+        "firstName": "Cristian",
+        "lastName": "Rosca",
+        "departament": "Civil Engineering",
+        "salary": "200"
+    },
+    {
+        "firstName": "Iurie",
+        "lastName": "Botnaru",
+        "departament": "Architecture",
+        "salary": "500"
+    }
+]

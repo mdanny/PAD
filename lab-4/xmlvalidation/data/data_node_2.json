@@ -1,0 +1,20 @@
+[
+   {
+      "firstName":"Anton",
+      "lastName":"Curlat",
+      "departament":"Computer Science",
+      "salary":"440"
+   },
+   {
+      "firstName":"Vlad",
+      "lastName":"Samburski",
+      "departament":"Computer Science",
+      "salary":"440"
+   },
+   {
+      "firstName":"Sandu",
+      "lastName":"Cojocaru",
+      "departament":"Mechanics",
+      "salary":"700"
+   }
+]
