@@ -1,0 +1,8 @@
+InfoNode\nodeinfoservice\InfoService.class
+InfoNode\nodehttpservice\handler\HttpEmployeeHandler.class
+InfoNode\nodeinfoservice\model\Employee.class
+InfoNode\nodehttpservice\handler\HttpEmployeesHandler.class
+InfoNode\nodecontainer\App.class
+InfoNode\nodehttpservice\Worker.class
+InfoNode\nodehttpservice\RequestListener.class
+InfoNode\nodehttpservice\NodeController.class
